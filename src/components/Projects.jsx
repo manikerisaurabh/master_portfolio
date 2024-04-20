@@ -39,9 +39,16 @@ const Projects = () => {
                   <div className="card-body text-center">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
-                    <a href={data.demo} className="btn btn-primary mx-3">
-                      Demo
-                    </a>
+                    {data.demo && ( // Check if 'demo' data is available
+                      <a href={data.demo} className="btn btn-primary mx-3">
+                        Demo
+                      </a>
+                    )}
+                    {data.linkedin && ( // Check if 'linkedin' data is available
+                      <a href={data.linkedin} className="btn btn-primary mx-3">
+                        LinkedIn
+                      </a>
+                    )}
                     <a href={data.source} className="btn btn-warning">
                       Code
                     </a>

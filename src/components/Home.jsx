@@ -2,16 +2,16 @@ import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/resume.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
-
 const Home = () => {
   const typedRef = useRef(null);
   useEffect(() => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
+        "My Name is Saurabh Manikeri",
         "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "MERN-STACK Developer",
+        "From INDIA"
       ],
       typeSpeed: 50,
       backSpeed: 50,

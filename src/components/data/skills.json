@@ -20,8 +20,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   },
   {
     "title": "GraphQL",
@@ -34,5 +34,25 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Express js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "DOT NET",
+    "imageSrc": "skills/DOTNET.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "My Sql",
+    "imageSrc": "skills/mysql.png"
   }
 ]
