@@ -1,4 +1,4 @@
-# Saurabh Manikeri - Portfolio ## Live Portfolio
+# Saurabh Manikeri - Portfolio 
 
 Welcome to my portfolio repository! This is where I showcase my skills, projects, and accomplishments.
 
@@ -19,6 +19,8 @@ This portfolio is designed to provide an overview of my expertise, experience, a
 ## Overview
 
 This portfolio is built using [insert technologies/frameworks used]. It includes sections for my resume, projects, skills, and contact information. The layout is clean, modern, and designed to highlight key information effectively.
+
+## Live Portfolio
 
 ## Features
 
