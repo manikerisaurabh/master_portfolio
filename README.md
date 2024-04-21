@@ -6,9 +6,13 @@ Welcome to my portfolio repository! This is where I showcase my skills, projects
 
 This portfolio is designed to provide an overview of my expertise, experience, and projects. It serves as a comprehensive guide for potential employers, collaborators, or anyone interested in my work.
 
-## Contents
+## Live Portfolio
 
 - [Live Portfolio](https://master-portfolio-6ahc.onrender.com/#home)
+
+  
+## Contents
+
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -20,7 +24,7 @@ This portfolio is designed to provide an overview of my expertise, experience, a
 
 This portfolio is built using [insert technologies/frameworks used]. It includes sections for my resume, projects, skills, and contact information. The layout is clean, modern, and designed to highlight key information effectively.
 
-## Live Portfolio
+
 
 ## Features
 
